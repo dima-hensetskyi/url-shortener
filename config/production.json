@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"mongoUri": "mongodb+srv://dima:fhRqT9QrM1VOOcxI@cluster0.tmsgj.mongodb.net/app?retryWrites=true&w=majority",
+	"jwtSecret": "my own full stack app Dima H",
+	"baseUrl": "http://localhost:5000"
+}
